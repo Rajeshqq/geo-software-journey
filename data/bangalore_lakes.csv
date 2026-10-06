@@ -1,0 +1,21 @@
+id,name,alternate_name,zone,area_acres,latitude,longitude,valley,water_quality,has_walking_path,last_rejuvenated_year,status
+1,Bellandur Lake,,Mahadevapura,892,12.9346,77.6700,Koramangala-Challaghatta,Poor,false,2023,Under Rejuvenation
+2,Varthur Lake,,Mahadevapura,445,12.9445,77.7420,Koramangala-Challaghatta,Poor,false,2023,Under Rejuvenation
+3,Ulsoor Lake,Halasuru Kere,East,123,12.9830,77.6200,Koramangala-Challaghatta,Moderate,true,2019,Active
+4,Sankey Tank,Sankey Kere,West,37,13.0093,77.5741,Hebbal-Nagavara,Good,true,2021,Active
+5,Hebbal Lake,,Yelahanka,143,13.0450,77.5900,Hebbal-Nagavara,Moderate,true,2018,Active
+6,Madiwala Lake,,Bommanahalli,273,12.9080,77.6160,Koramangala-Challaghatta,Moderate,true,2020,Active
+7,Agara Lake,,Bommanahalli,98,12.9220,77.6410,Koramangala-Challaghatta,Moderate,true,2021,Active
+8,Lalbagh Lake,,South,40,12.9470,77.5850,Koramangala-Challaghatta,Good,true,2022,Active
+9,Yediyur Lake,,South,16,12.9330,77.5730,Vrishabhavathi,Good,true,2019,Active
+10,Kaikondrahalli Lake,,Mahadevapura,48,12.9150,77.6730,Koramangala-Challaghatta,Good,true,2022,Active
+11,Puttenahalli Lake,,Bommanahalli,13,12.8920,77.5860,Koramangala-Challaghatta,Good,true,2021,Active
+12,Nagavara Lake,Lumbini Gardens,East,74,13.0410,77.6170,Hebbal-Nagavara,Moderate,true,2017,Active
+13,Hesaraghatta Lake,,Dasarahalli,1000,13.1400,77.4770,Arkavathi,Moderate,false,2016,Seasonal
+14,Jakkur Lake,,Yelahanka,160,13.0790,77.6100,Hebbal-Nagavara,Good,true,2020,Active
+15,Sarakki Lake,,South,82,12.9050,77.5750,Koramangala-Challaghatta,Moderate,true,2018,Active
+16,Hulimavu Lake,,Bommanahalli,140,12.8780,77.6050,Koramangala-Challaghatta,Moderate,false,2021,Under Rejuvenation
+17,Begur Lake,,Bommanahalli,120,12.8740,77.6290,Koramangala-Challaghatta,Moderate,true,2023,Active
+18,Doddanekundi Lake,,Mahadevapura,110,12.9750,77.6970,Koramangala-Challaghatta,Poor,false,2022,Under Rejuvenation
+19,Allalasandra Lake,,Yelahanka,70,13.0970,77.5970,Hebbal-Nagavara,Moderate,true,2019,Active
+20,Rachenahalli Lake,,Yelahanka,138,13.0560,77.6280,Hebbal-Nagavara,Good,true,2020,Active
